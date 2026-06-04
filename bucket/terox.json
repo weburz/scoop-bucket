@@ -1,17 +1,17 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Project generator built in Go",
   "homepage": "https://github.com/weburz/terox",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/weburz/terox/releases/download/v0.2.0/terox_0.2.0_windows_amd64.zip",
-      "hash": "4dc2c79e50e045e7504c447b0270df24ef2f1c5db4e2caefe4d72859e9f1cbfe",
+      "url": "https://github.com/weburz/terox/releases/download/v0.3.0/terox_0.3.0_windows_amd64.zip",
+      "hash": "aac6b03aa609f6d8c6175f1213c757846fa236976c3f4b39756e29afa6d73752",
       "bin": "terox.exe"
     },
     "arm64": {
-      "url": "https://github.com/weburz/terox/releases/download/v0.2.0/terox_0.2.0_windows_arm64.zip",
-      "hash": "337bc184433fc841f251e3a092e6beb353157f3c6f7b97bd91955e58583f9011",
+      "url": "https://github.com/weburz/terox/releases/download/v0.3.0/terox_0.3.0_windows_arm64.zip",
+      "hash": "77c4d5bb3fe01c4630463dce4cd4f207a329c5ca9ee5673b9b4600143fa68e51",
       "bin": "terox.exe"
     }
   },
